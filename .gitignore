@@ -1,0 +1,14 @@
+# Build output
+*/target
+
+# Backup files from rustfmt
+**/*.rs.bk
+
+# Debug info (Windows)
+*.pdb
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
